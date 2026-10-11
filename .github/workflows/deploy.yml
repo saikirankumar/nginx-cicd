@@ -79,4 +79,3 @@ jobs:
 
           echo "===== Service ====="
           kubectl get service nginx-service
-          
